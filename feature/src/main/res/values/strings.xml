@@ -1,0 +1,3 @@
+<resources>
+    <string name="endpoint">http://localhost:8090/pascal?</string>
+</resources>
